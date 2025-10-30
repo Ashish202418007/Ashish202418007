@@ -17,19 +17,18 @@ I love building and fine-tuning models, automating workflows, and learning about
 
 ---
 
-### 🧰 Tech Stack  
+### Tech Stack  
 
-**Programming & Scripting:**  
-Python • SQL • Bash  
-
-**AI & ML Frameworks:**  
-PyTorch • scikit-learn • LangChain • Unsloth • Crew AI  
-
-**Data & Analytics Tools:**  
-Pandas • PySpark • Jupyter  
-
-**Dev & Productivity Tools:**  
-VS Code • Cursor  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+ 
 
 ---
 
