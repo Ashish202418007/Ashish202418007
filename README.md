@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashish Kar  
 
 🎓 **M.Sc. Data Science student** at [DA-IICT](https://www.daiict.ac.in/)  
-🔬 **Research Intern @ [BSES SELC Lab](https://www.selc.daiict.ac.in/)**  
+🔬 **Research Intern @ [BSES SELC Lab](https://selc.daiict.ac.in/)**  
 🤖 **Machine Learning & AI Enthusiast**  
 
 ---
