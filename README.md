@@ -2,6 +2,7 @@
 [Have a look here too](https://ashish202418007.github.io/)
 
 💻 **Data and Product @ NielsenIQ**
+
 🎓 **M.Sc. Data Science student** at [DA-IICT](https://www.daiict.ac.in/)  
 🔬 **Research Intern @ [BSES SELC Lab](https://selc.daiict.ac.in/)**  
 🤖 **Machine Learning & AI Enthusiast**  
