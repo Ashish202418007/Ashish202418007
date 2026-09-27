@@ -23,7 +23,7 @@ I love building and fine-tuning models, automating workflows, and learning about
 ### 🧠 Tech Stack  
 
 #### **Learning**
-<p align="left>
+<p align="left">
   <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/favicon.svg" width="40" height="40"/>
 </p>
 
