@@ -92,13 +92,12 @@ I build and fine-tune models, automate the workflows around them, and care a lot
 
 ---
 
-## Selected projects
 
 <!-- Replace REPO_NAME with your repository names. Duplicate a line for more pins. -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Ashish202418007/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish202418007&repo=REPO_NAME&hide_border=true" alt="Project 1"/></a>
   <a href="https://github.com/Ashish202418007/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish202418007&repo=REPO_NAME&hide_border=true" alt="Project 2"/></a>
-</p>
+</p> -->
 
 ---
 
